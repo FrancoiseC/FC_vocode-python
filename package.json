@@ -1,0 +1,19 @@
+{
+  "name": "fc_vocode-python",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm start",
+    "add-customer": "python add_customer.py",
+    "list-customers": "python list_customers.py"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
